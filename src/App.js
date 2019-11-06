@@ -24,7 +24,7 @@ const App = (props) => {
   );
 };
 
-
+//Learn how both work below and you should be good
 
  //Bringing in state and giving it to comp via props(magic)
 const mapStateToProps = state => {

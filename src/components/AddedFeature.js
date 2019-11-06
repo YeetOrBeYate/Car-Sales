@@ -12,7 +12,7 @@ const AddedFeature = props => {
   );
 };
 
-
+//Learn how connect works
 export default connect(
   null,
   {remove}
